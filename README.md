@@ -14,4 +14,4 @@ Credit to : https://startbootstrap.com/ for original template
 * 1.1
   * Updated and added information in portfolio. And updated contact form php file so that it works for my site
 * 1.2
-  * Added in a new portfolio. Updated canonical link for SEO purposes. Added a .htaccess file for HTTPS redirect purposes.
+  * Added in a new portfolio. Updated canonical link for SEO purposes. Added a .htaccess file for HTTPS redirect purposes, and added a sitemap for better indexing
